@@ -1,5 +1,6 @@
 {
   "name": "alamiya-backend",
+  "type": "module"
   "version": "1.0.0",
   "description": "Backend Node.js pour Alamiya",
   "main": "server.js",
